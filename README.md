@@ -1,16 +1,28 @@
-### Hi there 👋
+### Bonjour 👋, je suis ArtichautDev
 
-<!--
-**ArtichautDev/ArtichautDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![Age](https://img.shields.io/badge/Age-16-blue)
+![Founder & CEO](https://img.shields.io/badge/Founder%20%26%20CEO-OnPowered%20SRL-brightgreen)
+![Position](https://img.shields.io/badge/Dev%20%26%20Network%20Manager-Centre%20scolaire%20saint%20michel-orange)
 
-Here are some ideas to get you started:
+Je suis un administrateur système, développeur back end passionné et un fervent adepte du pen testing. J'utilise diverses technologies pour développer des solutions innovantes et efficaces, ainsi que pour tester la sécurité des systèmes.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Mes compétences
+
+- **Langages de programmation** : HTML, CSS, JS, GOLANG, PYTHON
+- **Systèmes d'exploitation** : Linux (Debian, Ubuntu, Proxmox, Kali Linux)
+- **Technologies Back End** : NodeJS, Golang, Python
+- **Autres compétences** : Virtualisation, Gestion de réseau, Gestion de serveurs informatiques, Pen Testing
+
+## 🌐 Liens
+
+- 🏢 [OnPowered SRL](https://onpowered.net)
+- 🏫 [Centre scolaire saint michel (Etterbeek)](https://college-st-michel.info/wp/)
+
+## 📌 Informations supplémentaires
+
+- 🔭 Je travaille actuellement sur ... OnPowered SRL
+- 🌱 J'apprends actuellement ... la gestion de réseau, C++
+- 💬 Demandez-moi à propos de ... la gestion de serveurs informatiques
+- 📫 Comment me contacter : ... pierre.demyttenaere@onpowered.net
+- 😄 Pronoms : Il/Lui
+- ⚡ Anecdote : Passionné de technologie depuis mes 10 ans
