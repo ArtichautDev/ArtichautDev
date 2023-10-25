@@ -16,7 +16,7 @@ Je suis un administrateur système, développeur back end passionné J'utilise d
 ## 🌐 Liens
 
 - 🏢 [OnPowered SRL](https://onpowered.net)
-- 🏫 [Centre scolaire saint michel (Etterbeek)](https://college-st-michel.info/wp/)
+- 🏫 [Centre scolaire Saint-Michel (Etterbeek)](https://college-st-michel.info/wp/)
 
 ## 📌 Informations supplémentaires
 
