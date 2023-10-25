@@ -2,7 +2,7 @@
 
 ![Age](https://img.shields.io/badge/Age-16-blue)
 ![Founder & CEO](https://img.shields.io/badge/Founder%20%26%20CEO-OnPowered%20SRL-brightgreen)
-![Position](https://img.shields.io/badge/Dev%20%26%20Network%20Manager-Centre%20scolaire%20Saint-Michel-orange)
+![Position](https://img.shields.io/badge/Dev%20%26%20Network%20Manager-Centre%20scolaire%20Saint%20Michel-orange)
 
 Je suis un administrateur système, développeur back end passionné et un fervent adepte du pen testing. J'utilise diverses technologies pour développer des solutions innovantes et efficaces, ainsi que pour tester la sécurité des systèmes.
 
