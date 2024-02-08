@@ -4,7 +4,7 @@
 ![Founder & CEO](https://img.shields.io/badge/Founder%20%26%20CEO-OnPowered%20SRL-brightgreen)
 ![Position](https://img.shields.io/badge/SysAdmin-Centre%20scolaire%20Saint%20Michel-orange)
 
-Je suis un administrateur système, développeur back end passionné J'utilise diverses technologies pour développer des solutions innovantes et efficaces, ainsi que pour tester la sécurité des systèmes.
+En tant qu'administrateur système et développeur back-end passionné, je me consacre à l'utilisation d'un éventail de technologies pour concevoir des solutions innovantes et performantes. Mon expertise s'étend également à la sécurisation des systèmes, où je m'emploie à tester et renforcer la fiabilité des infrastructures informatiques. Actuellement, je dirige OnPowered SRL, une entreprise spécialisée dans l'hébergement cloud. Chez OnPowered, nous nous engageons à fournir des services d'hébergement de haute qualité, en veillant à ce que nos solutions soient à la fois sécurisées, scalables et adaptées aux besoins évolutifs de nos clients.
 
 ## 🛠️ Mes compétences
 
@@ -17,12 +17,3 @@ Je suis un administrateur système, développeur back end passionné J'utilise d
 
 - 🏢 [OnPowered SRL](https://onpowered.net)
 - 🏫 [Centre scolaire Saint-Michel (Etterbeek)](https://college-st-michel.info/wp/)
-
-## 📌 Informations supplémentaires
-
-- 🔭 Je travaille actuellement sur ... OnPowered SRL
-- 🌱 J'apprends actuellement ... la gestion de réseau, C++
-- 💬 Demandez-moi à propos de ... la gestion de serveurs informatiques
-- 📫 Comment me contacter : ... pierre.demyttenaere@onpowered.net
-- 😄 Pronoms : Il/Lui
-- ⚡ Anecdote : Passionné de technologie depuis mes 10 ans
